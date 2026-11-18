@@ -13,7 +13,7 @@
 
 - Run the application:
 
-      python main.py
+      python nexusdrive.py
 
 - The system automatically resets tracking and lane estimation when a new source is loaded.
 
