@@ -6,7 +6,7 @@
 - Risk assessment
 - Rendering of overlays
 
-<img width="1302" height="756" alt="frontNexus" src="https://github.com/user-attachments/assets/ea3d5b82-f878-4f1d-ad93-dc0f57f66f60" />
+<img width="1284" height="585" alt="img" src="https://github.com/user-attachments/assets/c11e6aec-17ea-45d4-b375-aac5c4e43e5f" />
 
 
 ### `Usage`
